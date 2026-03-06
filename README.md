@@ -1,8 +1,8 @@
-Voice Assistant using Python 🎙️
+## Voice Assistant using Python 🎙️
 
 This project is a simple voice-controlled assistant built with Python that listens to user commands and performs different tasks. It uses speech recognition to understand voice input and text-to-speech to respond. The assistant can open websites like YouTube and Google, tell the current time, play songs from the local system, and even tell jokes.
 
-Key Features
+## Key Features
 
 Voice command recognition using SpeechRecognition
 
@@ -18,7 +18,7 @@ Generates random jokes
 
 Voice command to exit the assistant
 
-Technologies Used
+## Technologies Used
 
 Python
 
